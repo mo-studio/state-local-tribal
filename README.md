@@ -6,7 +6,7 @@ We're a scrappy, experienced team founded by former public servants with policy,
 Founding team members include alumni from 18F, U.S. Digital Service, CFPB, and USDA.
 
 ## Founding team members
-* **[Izzie Zahorian, Director of Digital Services](https://www.linkedin.com/in/izziezahorian/).** Formerly U.S. Digital Service at the White House.
+* **[Izzie Zahorian, Director of Digital Services](https://www.linkedin.com/in/izziezahorian/).** Formerly U.S. Digital Service at the White House and Google.
 * **[Dana Platin, Government Partnerships and Advisory Lead](https://www.linkedin.com/in/dana-platin/).** Formerly Senior Executive Service at USDA/FNS and a senior leader with AmeriCorps and Peace Corps.
 * **[Laura Gerhardt, Technical Lead](https://www.linkedin.com/in/lauragerhardt/).** Formerly White House, General Services Administration, and 18F.
 * **[Jacob Harris, Technical Lead](https://www.linkedin.com/in/jacob-harris-4157961/).** Formerly 18F, Nava PBC, CFPB, and NY Times Digital.
