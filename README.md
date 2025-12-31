@@ -22,7 +22,7 @@ Founding team members include alumni from 18F, U.S. Digital Service, CFPB, and U
 ## Our work
 You view and download a brief overview of our current and past experience [here](https://docs.google.com/document/d/1NR0AVw8tBqZNH1iNMb44MU2M6juS7GJ0qh7B42wR6aU/edit?usp=sharing).
 
-Additionally, feel free to check out our [H.R.1 Open Source Implementation Toolkit (HR1-OSIT)](lorem) which is updated on an ongoing basis.
+Additionally, feel free to check out our [H.R.1 Open Source Implementation Toolkit (HR1-OSIT)](https://github.com/mo-studio/state-local-tribal/tree/main/hr1-open-source-toolkit) which is updated on an ongoing basis.
 
 ## Get in touch
 You can reach out to us at **sandlot@themostudio.com**. We look forward to hearing from you!
